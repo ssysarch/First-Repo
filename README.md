@@ -1,2 +1,2 @@
 # First-Repo
-Using for storing generic documents and files
+Being used for storing generic documents and files
